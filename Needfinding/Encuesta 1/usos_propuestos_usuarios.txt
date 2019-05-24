@@ -1,0 +1,42 @@
+# Usos propuestos por los usuarios
+
+XXVI-    6. Interlocutor en una conversación
+
+XXIV-    4. Agenda/Recodatorio/Notas
+
+XIX-   2. Consultas de información en tiempo real
+
+XVII-    3. Uso automático de aplicaciones ya existentes (e.g., "escuchar música")
+
+X-    11. Pedir opinión/Conversación emocional
+
+IV-    10. "Coach" o tutor, recomendaciones para la acción
+    
+IV-    12. Jugar (e.g., videojuegos, cantar juntos)
+
+IV-    5. Apoyo al estudio
+
+IV-    8. Envío de correos electrónicos, Whatsapp y similar...
+
+III-    15. GPS/Guía turístico
+
+II-    1. Aprender/Practicar idiomas
+    
+II-    7. Sugerencias culinarias
+    
+II-    9. Lector en voz alta
+    
+II-    13. Traductor
+    
+II-    14. Gestión domótica
+    
+I-    16. Gestión de documentos
+    
+    X. Otros
+        - "Trabajar"
+        - "Para poca cosa"
+        - "Ayudar a personas con discapacidad"
+        - "Lo probaría [...], para pasar el rato"
+        - Dos personas dicen que nunca lo usarían para hablar
+        - "Funciones similares a los asistentes actuales"
+        - "Como el móvil pero hablado"

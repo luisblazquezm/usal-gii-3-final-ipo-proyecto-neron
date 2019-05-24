@@ -1,0 +1,27 @@
+                               ¿Lo compraria?
+                 ______Sí____________|_____________No______
+                 |                                        |
+    No     ¿Ha usado alguno?                     ¿Lo usaría regalado?
+  ---------------|                             ___________|_____________
+  |              | Sí                          |                       |
+  |              |                             | Sí                    | No
+  |              v                             |                       |
+  |   ¿Cuál? ¿Problemas? ¿Deseos? <------------|                       v
+  |              |                                                ¿Por qué?
+  |              |                .                                    |
+  |              |                .                   Sí               v
+  |              v                .     ¿Cuál?   <----------- ¿Ha usado alguno?
+  -----> ¿Para qué lo usaría?     .  ¿Problemas?                    |
+         ¿En qué situaciones?     .    ¿Deseos?                     |
+         ¿Podría tener relación?  .       |                         | No
+                   |              .       |                         |
+                   |              .       |                         |
+                   |                      |                         |
+                   |                      v                         v
+                   |---------------> ¿Cuán interesante? ---> Aspectos positivos
+                                                                   |
+                                                                   v
+                                                            Aspectos negativos
+                                                                   |
+                                                                   v
+                                                              Datos personales

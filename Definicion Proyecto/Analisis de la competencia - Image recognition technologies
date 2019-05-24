@@ -1,0 +1,24 @@
+1. Google Lens (2017)
+=====================
+    Análisis visual basado en una red neuronal. El sistema
+intenta identificar objetos, etiquetas o texto, y buscar información relacionada
+y mostrar los resultados.
+
+2. Bixby vision (2017)
+======================
+    Parte del asistente Bixby de Samsung. Este sistema identifica objetos en
+tiempo real y ofrece la opción de comprarlo online, y traduce texto, lee códigos
+QR y buscar puntos de referencia.
+
+3. Camfind (2013)
+=================
+    Sistema que permite identificar objetos tras tomar una foto de ellos
+(no analiza movimiento) y proporciona información al respecto: imágenes
+similares, lugares de compra cercanos, comparaciones de precios y resultados
+en web.
+
+4. Reverse image search engines
+===============================
+    Permiten localizar fuentes de las imágenes en la web, encontrar imágenes
+con mejor resolución, buscar al creador de la imagen, obtener información sobre
+la imagen.
