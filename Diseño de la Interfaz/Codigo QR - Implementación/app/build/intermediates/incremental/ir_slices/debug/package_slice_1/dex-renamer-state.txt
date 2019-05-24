@@ -1,0 +1,4 @@
+#Thu May 23 18:27:41 CEST 2019
+base.0=/Users/alberto/Desktop/Alberto/QReader/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
